@@ -1,0 +1,6 @@
+{
+  "name": "Floradex",
+  "description": "AI-powered gardening assistant that identifies plants from photos and provides tailored care instructions.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
